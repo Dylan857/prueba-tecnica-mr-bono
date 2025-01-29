@@ -16,3 +16,7 @@ cambiar por sus credenciales
 6. Para ejecutar el servidor ejecutar el siguiente comando: "php artisan serve"
 
 7. Las rutas se encuentra en Routes/api.php, pero igual dejare la coleccion de postman en el repo.
+
+8. credenciales usuario administrador:
+   user: admin@admin.com
+   password: admin123456
